@@ -1,0 +1,4 @@
+- name: NodeJS Action Template
+  # You may pin to the exact commit or the version.
+  # uses: bitoiu/node-js-action-template@a113bdf459ab942f94e8f4981cfbfb814c8aad90
+  uses: bitoiu/node-js-action-template@v1.0
