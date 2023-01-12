@@ -7,18 +7,9 @@ const App: Component = () => {
   return (
     <div class={styles.App}>
       <header class={styles.header}>
-        <img src={logo} class={styles.logo} alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          class={styles.link}
-          href="https://github.com/solidjs/solid"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Solid
-        </a>
+        <h1 class="mt-4 text-3xl font-bold underline relative left-4 ">Welcome to my Website!</h1>
+        <h2 class="w-1/4 mt-4 text-l fold-words relative left-4">My name is Jeremy 
+        and this is my virtual business card</h2>
       </header>
     </div>
   );
